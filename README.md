@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AryamansCODE
-- 👀 I’m interested in ... Data Visualization, Data Mining , Data Science
-- 🌱 I’m currently learning Tensorflow , VizQL
+- 👀 I’m interested in ... Exploratory Data Analysis
+- 🌱 I’m currently learning PySpark
 - 📫 How to reach me ... aryamanmalik04@gmail.com
 - ⚡ Fun fact: At present, less than 0.5% of all data undergoes analysis and utilization, underscoring the vast untapped potential in the data landscape.
 
