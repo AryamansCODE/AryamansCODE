@@ -6,6 +6,8 @@
 
 A small, cinematic single-page fan website for a Spider-Man movie, built with plain HTML, CSS, and JavaScript — no build step required.
 
+**→ The site lives in the [`spiderman-website/`](spiderman-website/) folder**, packaged as a Cloudflare Worker (static assets) — see its README for the deploy steps. The pages themselves are in `spiderman-website/public/`.
+
 ## Features
 
 - **Full-screen cinematic hero** with an AI-generated 2K (16:9) Spider-Man key-art image, slow Ken Burns drift, mouse parallax, and a dark vignette film grade
