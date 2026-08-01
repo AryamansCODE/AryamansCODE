@@ -435,7 +435,7 @@ img { max-width: 100%; display: block; }
 .tickets {
   background:
     linear-gradient(rgba(6,9,15,0.55), rgba(6,9,15,0.92)),
-    url('assets/hero-spiderman.jpg') center 20% / cover no-repeat fixed;
+    url('https://res.cloudinary.com/dblsih9op/image/upload/f_auto,q_auto,w_1920/v1785606213/spiderman-website/hero-spiderman.jpg') center 20% / cover no-repeat fixed;
   text-align: center;
   padding: 9rem 4vw;
 }
